@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gn927\\Desktop\\DesignPattern\\c-sharp-design-patterns-strategy\\02\\demos\\Demo 1 - Strategy Pattern First Look\\Start_Here\\Strategy Pattern First Look.csproj": {}
+    "C:\\Users\\gn927\\Desktop\\GitFolder\\DesignPattern\\design-pattern-strategy\\Strategy Pattern First Look.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gn927\\Desktop\\DesignPattern\\c-sharp-design-patterns-strategy\\02\\demos\\Demo 1 - Strategy Pattern First Look\\Start_Here\\Strategy Pattern First Look.csproj": {
+    "C:\\Users\\gn927\\Desktop\\GitFolder\\DesignPattern\\design-pattern-strategy\\Strategy Pattern First Look.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gn927\\Desktop\\DesignPattern\\c-sharp-design-patterns-strategy\\02\\demos\\Demo 1 - Strategy Pattern First Look\\Start_Here\\Strategy Pattern First Look.csproj",
+        "projectUniqueName": "C:\\Users\\gn927\\Desktop\\GitFolder\\DesignPattern\\design-pattern-strategy\\Strategy Pattern First Look.csproj",
         "projectName": "Strategy Pattern First Look",
-        "projectPath": "C:\\Users\\gn927\\Desktop\\DesignPattern\\c-sharp-design-patterns-strategy\\02\\demos\\Demo 1 - Strategy Pattern First Look\\Start_Here\\Strategy Pattern First Look.csproj",
+        "projectPath": "C:\\Users\\gn927\\Desktop\\GitFolder\\DesignPattern\\design-pattern-strategy\\Strategy Pattern First Look.csproj",
         "packagesPath": "C:\\Users\\gn927\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gn927\\Desktop\\DesignPattern\\c-sharp-design-patterns-strategy\\02\\demos\\Demo 1 - Strategy Pattern First Look\\Start_Here\\obj\\",
+        "outputPath": "C:\\Users\\gn927\\Desktop\\GitFolder\\DesignPattern\\design-pattern-strategy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
