@@ -10,3 +10,9 @@ The strategy pattern can be identified by three different characteristics:
 - Strategy - a concrete implementation of the strategy.
 
 ![alt text](img/strategy_pattern.png)
+
+## NullObjectPattern
+- Null referencing issue cost staggering amounts of time and money 
+- Each Null check increases cyclomatic complexity - a measure of the number of the logical branches
+
+![alt text](img/null_object_pattern.png)
