@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWXdfKzQCUg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gn927\\Desktop\\DesignPattern\\csharp-design-patterns-null-object\\02\\demos\\after\\NullObjectPattern\\NullObject\\NullObject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gn927\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\gn927\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\gn927\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\gn927\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
