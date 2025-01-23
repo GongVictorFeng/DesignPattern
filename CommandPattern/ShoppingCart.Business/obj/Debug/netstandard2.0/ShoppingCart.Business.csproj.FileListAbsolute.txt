@@ -1,0 +1,10 @@
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.deps.json
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.dll
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\bin\Debug\netstandard2.0\ShoppingCart.Business.pdb
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.csproj.AssemblyReference.cache
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.AssemblyInfoInputs.cache
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.AssemblyInfo.cs
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.csproj.CoreCompileInputs.cache
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.dll
+C:\Users\gn927\Desktop\DesignPattern\c-sharp-command-pattern\02\demos\ShoppingCart.Business\obj\Debug\netstandard2.0\ShoppingCart.Business.pdb
